@@ -7,9 +7,8 @@ agent { dockerfile true }
 	    steps{
 	      sh 'echo checking out source code'
 	    }  
-
- }  
-    }
+     }  
+ 
     stage('SAST'){
       steps{
       	sh 'echo SAST stage'
@@ -49,5 +48,6 @@ agent { dockerfile true }
         }
     }
  }
-}
 
+
+}
