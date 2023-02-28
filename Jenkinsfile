@@ -4,12 +4,11 @@ agent { dockerfile true }
    stages {
 
     stage('Cloning Git') {
+	    steps{
+	      sh 'echo checking out source code'
+	    }  
 
-      steps
-    	{
-        /* Let's make sure we have the repository cloned to our workspace */
-       checkout scm
-    	}  
+ }  
     }
     stage('SAST'){
       steps{
@@ -51,4 +50,4 @@ agent { dockerfile true }
     }
  }
 }
-Footer
+
