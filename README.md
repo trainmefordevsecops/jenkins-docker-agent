@@ -1,18 +1,58 @@
 # jenkins-docker-agent
 
 
-my udemy courses links:
+Welcome to the **DevSecOps** Udemy Tutorial repository!  
+This repository contains resources and links to our Udemy courses, focusing on **DevSecOps** (a blend of DevOps + Security). Whether you're a **Freshers**, **DevOps Engineer**, **Application Support Specialist**, **QA Professional**, or in **Infosec**, these courses are designed for professionals at all levels.
 
-### reachout to me for available discounts if any for the month ###
+## Course Overview:
+We provide **professional-level training** in DevSecOps, covering tools and practices used in the industry to secure your applications and infrastructure while embracing DevOps practices.
 
-#Jenkins #ci #cd https://www.udemy.com/course/jenkins-zero-to-pro/?referralCode=
 
-#DevSecOps #DevOps https://www.udemy.com/course/devsecops/?referralCode=7A73B2D1AD95E1F68C1F
+---
 
-#docker #container #docker-compose #k8s https://www.udemy.com/course/docker-devops/?referralCode=ECEDBD3CEC6B99717566
+## My Udemy Online Courses:
 
-#SonarQube #infosec #security #sast #devops #devsecops https://www.udemy.com/course/sonarqube-master-sonarqube-within-a-few-hours-2020/?referralCode=992044CBD2B0CAA48856
+### 🚀 **DevSecOps**
+- Learn the essentials of DevSecOps and how security integrates with the DevOps pipeline.  
+[**DevSecOps Course**](https://tinyurl.com/2p8dxbwn)
 
-#google #cloud #serverless #devops #devsecops #computing https://www.udemy.com/course/google-cloud-serverless
+### 🚀 **DevSecOps Fundamentals**
+- A foundational course covering the core concepts of DevSecOps for beginners.  
+[**DevSecOps Fundamentals**](https://shorturl.at/H9kqG)
 
-#devops #certification #aws #DOP-C01 #certification https://www.udemy.com/course/aws-devops-practice-test/?referralCode=D8209AD57D310A001C78
+### 🚀 **SonarQube**
+- Master SonarQube to analyze and improve the quality of your code with automated security checks.  
+[**SonarQube Course**](https://tinyurl.com/mzfukn4p)
+
+### 🚀 **Serverless**
+- Dive into serverless architectures and build efficient, scalable applications.  
+[**Serverless Course**](https://tinyurl.com/st5xde5z)
+
+### 🚀 **Docker**
+- Learn Docker, containerization, and Kubernetes to run your apps in any environment effortlessly.  
+[**Docker Course**](https://tinyurl.com/2ffv8yjn)
+
+### 🚀 **CI/CD Jenkins Master**
+- Master Jenkins and automate your software build and delivery pipeline.  
+[**Jenkins Master Course**](https://rb.gy/u0ygq)
+
+### 🚀 **Free Linux Course: Introduction to Linux Crash Course**
+- Get started with Linux, the backbone of many modern IT systems.  
+[**Linux Crash Course**](https://www.udemy.com/course/introduction-to-linux-crash-course)
+
+### 🚀 **AWS DevOps Certification: DOP-C01 Practice Test**
+- Prepare for the AWS DevOps Engineer - Professional exam with this practice test.  
+[**AWS DevOps Practice Test**](https://www.udemy.com/course/aws-devops-practice-test/?referralCode=D8209AD57D310A001C78)
+
+
+---
+
+## Course Tags:
+**#DevSecOps** | **#DevOps** | **#SonarQube** | **#infosec** | **#security** | **#sast** | **#serverless** | **#cloud** | **#computing** | **#CI/CD** | **#Jenkins** | **#Docker** | **#Linux** | **#containerization** | **#automation** | **#AWS** | **#DevOpsCertification**
+
+---
+
+### 🚀 Reach out for any **discounts** available this month!
+
+Thank you for visiting! Don't forget to check out the courses and **reach out for discounts**!
+
